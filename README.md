@@ -1,7 +1,3 @@
----
-layout: default
-title: Puppy Info
----
 # Puppy Name
 - **Name**: This will be the puppy name  
 - **Contact Info**: 0488 888 888  
